@@ -1,0 +1,250 @@
+ProjID,Name,market,leaseup_months,rent_at_delivery,rent_at_stab,total_growth_pct,negative_growth,any_mom_decline
+10255043,22 North Apartments,"Austin-Round Rock, TX",4.0,1075.0,1341.0,24.74,False,True
+19148,3500 Westlake,"Austin-Round Rock, TX",12.0,1695.0,1276.0,-24.72,True,True
+48136,422 At The Lake,"Austin-Round Rock, TX",15.0,2014.0,2100.0,4.27,False,True
+19625,5th Street Commons,"Austin-Round Rock, TX",8.0,1473.0,1652.0,12.15,False,True
+53901,7East,"Austin-Round Rock, TX",13.0,1655.0,1741.0,5.2,False,True
+37301,95 Twenty,"Austin-Round Rock, TX",13.0,1068.0,1121.0,4.96,False,True
+27065,Agave at South Congress,"Austin-Round Rock, TX",8.0,1131.0,1025.0,-9.37,True,True
+91008,Altair Tech Ridge,"Austin-Round Rock, TX",7.0,1271.0,1410.0,10.94,False,True
+46261,Altis Lakeline,"Austin-Round Rock, TX",20.0,1358.0,1287.0,-5.23,True,True
+19410,AMLI 300,"Austin-Round Rock, TX",19.0,2012.0,1668.0,-17.1,True,True
+34139,AMLI 5350,"Austin-Round Rock, TX",5.0,1330.0,1345.0,1.13,False,True
+38303,AMLI at Mueller,"Austin-Round Rock, TX",9.0,1529.0,1671.0,9.29,False,True
+60618,AMLI Covered Bridge,"Austin-Round Rock, TX",16.0,1449.0,1370.0,-5.45,True,True
+18255,AMLI Eastside,"Austin-Round Rock, TX",16.0,1606.0,1338.0,-16.69,True,True
+19035,AMLI on 2ND,"Austin-Round Rock, TX",5.0,2479.0,1897.0,-23.48,True,True
+64806,AMLI on Aldrich,"Austin-Round Rock, TX",11.0,2074.0,1992.0,-3.95,True,True
+34038,AMLI South Shore,"Austin-Round Rock, TX",19.0,1266.0,1504.0,18.8,False,True
+53644,Anatole at Westinghouse,"Austin-Round Rock, TX",8.0,1109.0,1049.0,-5.41,True,True
+53307,Arrington Ridge,"Austin-Round Rock, TX",17.0,1066.0,1143.0,7.22,False,True
+44494,Ascent Arboretum,"Austin-Round Rock, TX",22.0,1419.0,1385.0,-2.4,True,True
+26436,Ashton Austin,"Austin-Round Rock, TX",13.0,2959.0,2795.0,-5.54,True,True
+57105,Aura 33Hundred,"Austin-Round Rock, TX",10.0,1211.0,1184.0,-2.23,True,True
+19145,Autumn Ranch on Swenson Farms,"Austin-Round Rock, TX",16.0,895.0,1036.0,15.75,False,True
+19373,Avanti Hills at the Galleria,"Austin-Round Rock, TX",25.0,1181.0,1086.0,-8.04,True,True
+52711,Azul Lakeshore,"Austin-Round Rock, TX",19.0,1623.0,1628.0,0.31,False,True
+58032,Bartz Ranch,"Austin-Round Rock, TX",13.0,1322.0,1225.0,-7.34,True,True
+52209,Bell at Four Points,"Austin-Round Rock, TX",24.0,1382.0,1405.0,1.66,False,True
+19962,Bell at Teravista,"Austin-Round Rock, TX",9.0,797.0,774.0,-2.89,True,True
+35687,Bell Austin Southwest,"Austin-Round Rock, TX",8.0,1167.0,1207.0,3.43,False,True
+26420,Bell Hill Country,"Austin-Round Rock, TX",5.0,973.0,954.0,-1.95,True,True
+43125,Bell Quarry Hill,"Austin-Round Rock, TX",5.0,1108.0,1143.0,3.16,False,True
+37407,Bell South Lamar,"Austin-Round Rock, TX",31.0,1573.0,1659.0,5.47,False,True
+86202,Bell Southpark,"Austin-Round Rock, TX",12.0,1314.0,1395.0,6.16,False,True
+38381,Bell Steiner Ranch,"Austin-Round Rock, TX",14.0,1402.0,1455.0,3.78,False,True
+45569,Belterra Springs,"Austin-Round Rock, TX",12.0,1407.0,1366.0,-2.91,True,True
+50902,Berkshire Lakeway,"Austin-Round Rock, TX",12.0,1582.0,1615.0,2.09,False,True
+45127,Bexley 3Five,"Austin-Round Rock, TX",13.0,1293.0,1243.0,-3.87,True,True
+19170,Bexley at Silverado,"Austin-Round Rock, TX",13.0,931.0,839.0,-9.88,True,True
+47606,Bexley at Tech Ridge,"Austin-Round Rock, TX",9.0,975.0,1141.0,17.03,False,False
+47574,Bexley at Whitestone,"Austin-Round Rock, TX",15.0,1174.0,1173.0,-0.09,True,True
+42731,Bexley Lakeline,"Austin-Round Rock, TX",11.0,1188.0,1222.0,2.86,False,True
+81450,Bexley Wolf Ranch,"Austin-Round Rock, TX",24.0,1348.0,1322.0,-1.93,True,True
+82239,Biltmore at the Park,"Austin-Round Rock, TX",10.0,1086.0,1011.0,-6.91,True,True
+45204,Blanco River Lodge,"Austin-Round Rock, TX",6.0,917.0,923.0,0.65,False,True
+52374,Broadstone 8 One Hundred,"Austin-Round Rock, TX",13.0,1120.0,1209.0,7.95,False,True
+26404,Broadstone Grand Avenue,"Austin-Round Rock, TX",12.0,997.0,805.0,-19.26,True,True
+26391,Broadstone Travesia,"Austin-Round Rock, TX",2.0,849.0,935.0,10.13,False,False
+45066,Burnet Flats,"Austin-Round Rock, TX",9.0,1452.0,1436.0,-1.1,True,True
+19776,Camden Brushy Creek,"Austin-Round Rock, TX",11.0,817.0,768.0,-6.0,True,True
+19551,Camden Cedar Hills,"Austin-Round Rock, TX",14.0,1053.0,1094.0,3.89,False,True
+43357,Camden La Frontera,"Austin-Round Rock, TX",2.0,1115.0,1265.0,13.45,False,False
+34951,Camden Lamar Heights,"Austin-Round Rock, TX",11.0,1548.0,1572.0,1.55,False,True
+49990,Camden Rainey,"Austin-Round Rock, TX",15.0,2140.0,2325.0,8.64,False,True
+37576,Century Stone Hill,"Austin-Round Rock, TX",12.0,1118.0,1211.0,8.32,False,False
+71860,Century Travesia,"Austin-Round Rock, TX",29.0,1412.0,1437.0,1.77,False,True
+80662,Cielo,"Austin-Round Rock, TX",31.0,1537.0,1369.0,-10.93,True,True
+20685,City North at Sunrise Ranch,"Austin-Round Rock, TX",15.0,765.0,800.0,4.58,False,True
+41571,Coldwater,"Austin-Round Rock, TX",11.0,2217.0,2248.0,1.4,False,True
+26406,Cole,"Austin-Round Rock, TX",5.0,1693.0,1962.0,15.89,False,False
+18272,Colonial Grand at Ashton Oaks,"Austin-Round Rock, TX",14.0,992.0,653.0,-34.17,True,True
+34037,Colonial Grand at Double Creek,"Austin-Round Rock, TX",10.0,1071.0,1154.0,7.75,False,True
+19124,Colonial Grand at Onion Creek,"Austin-Round Rock, TX",11.0,1068.0,1039.0,-2.72,True,True
+19624,Colonial Grand at Wells Branch,"Austin-Round Rock, TX",8.0,922.0,833.0,-9.65,True,True
+66090,Concord,"Austin-Round Rock, TX",39.0,1344.0,1268.0,-5.65,True,True
+37409,Corazon,"Austin-Round Rock, TX",19.0,1495.0,1351.0,-9.63,True,True
+49698,Cordevalle Apartments,"Austin-Round Rock, TX",15.0,945.0,1116.0,18.1,False,True
+44461,Cortland Onion Creek,"Austin-Round Rock, TX",11.0,1238.0,1138.0,-8.08,True,True
+19836,Cortland Southpark Estates II,"Austin-Round Rock, TX",20.0,878.0,777.0,-11.5,True,True
+19837,Cortland Southpark Terraces,"Austin-Round Rock, TX",20.0,990.0,848.0,-14.34,True,True
+66166,Creekside at Kenney`s Fort,"Austin-Round Rock, TX",1.0,1109.0,1109.0,0.0,False,False
+70694,Creekside on Parmer Lane,"Austin-Round Rock, TX",25.0,1260.0,1283.0,1.83,False,True
+19965,Crescent,"Austin-Round Rock, TX",11.0,1366.0,1378.0,0.88,False,True
+41406,Crest at Round Rock,"Austin-Round Rock, TX",12.0,874.0,770.0,-11.9,True,True
+42294,Crestview Commons,"Austin-Round Rock, TX",6.0,1470.0,1494.0,1.63,False,True
+35677,District at SoCo,"Austin-Round Rock, TX",14.0,1819.0,1698.0,-6.65,True,True
+66089,E6,"Austin-Round Rock, TX",12.0,1816.0,1807.0,-0.5,True,True
+56313,Eastside Station,"Austin-Round Rock, TX",29.0,1792.0,1699.0,-5.19,True,True
+44001,Echo,"Austin-Round Rock, TX",8.0,1455.0,1723.0,18.42,False,True
+86303,Edgewater,"Austin-Round Rock, TX",16.0,1227.0,1249.0,1.79,False,True
+82302,Edison,"Austin-Round Rock, TX",12.0,1773.0,1672.0,-5.7,True,True
+42296,Elan East,"Austin-Round Rock, TX",11.0,1181.0,1387.0,17.44,False,True
+59175,Elan Parkside I,"Austin-Round Rock, TX",16.0,1523.0,1555.0,2.1,False,True
+37272,Eleven,"Austin-Round Rock, TX",12.0,1669.0,1847.0,10.67,False,True
+86205,Enclave Falcon Pointe,"Austin-Round Rock, TX",17.0,1153.0,1369.0,18.73,False,True
+70684,Estancia Villas,"Austin-Round Rock, TX",12.0,1158.0,1181.0,1.99,False,True
+38849,Estates at Bee Cave,"Austin-Round Rock, TX",36.0,1381.0,1384.0,0.22,False,True
+43844,Ethos Apartments,"Austin-Round Rock, TX",14.0,1231.0,1138.0,-7.55,True,True
+70690,Farmhouse,"Austin-Round Rock, TX",12.0,1203.0,1236.0,2.74,False,True
+71391,Flora,"Austin-Round Rock, TX",9.0,1563.0,1482.0,-5.18,True,True
+34164,Fox Hill,"Austin-Round Rock, TX",14.0,982.0,1038.0,5.7,False,True
+37791,Gables Park Tower,"Austin-Round Rock, TX",10.0,2802.0,2730.0,-2.57,True,True
+59808,Gallery at Domain,"Austin-Round Rock, TX",4.0,1354.0,1476.0,9.01,False,True
+91009,Gallery at Domain Edge and Parkside,"Austin-Round Rock, TX",11.0,1636.0,1635.0,-0.06,True,True
+36483,Gibson Flats,"Austin-Round Rock, TX",12.0,1724.0,1882.0,9.16,False,True
+66159,Griffis at Riata,"Austin-Round Rock, TX",13.0,1491.0,1413.0,-5.23,True,True
+19841,Griffis Southpark,"Austin-Round Rock, TX",5.0,893.0,897.0,0.45,False,True
+86194,Groves South Lamar,"Austin-Round Rock, TX",15.0,1637.0,1740.0,6.29,False,True
+71730,Hays Junction I,"Austin-Round Rock, TX",11.0,1009.0,964.0,-4.46,True,True
+86196,Hays Junction II,"Austin-Round Rock, TX",9.0,1229.0,1086.0,-11.64,True,True
+52258,HighLine,"Austin-Round Rock, TX",7.0,1244.0,1289.0,3.62,False,True
+10255580,Hunters Crossing Apartments,"Austin-Round Rock, TX",5.0,1161.0,1158.0,-0.26,True,True
+37329,IMT at The Domain,"Austin-Round Rock, TX",4.0,1362.0,1359.0,-0.22,True,True
+44462,IMT Southpark North,"Austin-Round Rock, TX",10.0,1121.0,1170.0,4.37,False,True
+44464,IMT Southpark South,"Austin-Round Rock, TX",17.0,1208.0,1256.0,3.97,False,True
+71149,Indie,"Austin-Round Rock, TX",9.0,1319.0,1411.0,6.97,False,True
+38377,Indigo,"Austin-Round Rock, TX",11.0,1040.0,1097.0,5.48,False,True
+44496,James on South First,"Austin-Round Rock, TX",16.0,1232.0,1238.0,0.49,False,True
+44456,Kenzie at the Domain,"Austin-Round Rock, TX",11.0,1433.0,1534.0,7.05,False,True
+41412,La Frontera Square,"Austin-Round Rock, TX",6.0,786.0,917.0,16.67,False,False
+36480,Ladera,"Austin-Round Rock, TX",9.0,1026.0,1190.0,15.98,False,False
+71736,Lakeline Crossing I,"Austin-Round Rock, TX",14.0,1085.0,1130.0,4.15,False,True
+38376,Lakeline East,"Austin-Round Rock, TX",11.0,1065.0,1091.0,2.44,False,True
+36484,Lamar Union,"Austin-Round Rock, TX",27.0,1789.0,1809.0,1.12,False,True
+53330,Landmark Conservancy,"Austin-Round Rock, TX",8.0,1161.0,1250.0,7.67,False,True
+86185,Lantower Ambrosio,"Austin-Round Rock, TX",21.0,1151.0,1254.0,8.95,False,True
+57279,Lantower Tech Ridge,"Austin-Round Rock, TX",16.0,1039.0,1089.0,4.81,False,True
+20040,Las Brisas Luxury Apartment Homes,"Austin-Round Rock, TX",19.0,904.0,923.0,2.1,False,True
+64775,Latitude at Presidio,"Austin-Round Rock, TX",22.0,1416.0,1426.0,0.71,False,True
+33925,Legends Lakeline,"Austin-Round Rock, TX",13.0,990.0,1037.0,4.75,False,True
+65626,Lenox Boardwalk,"Austin-Round Rock, TX",12.0,1622.0,1710.0,5.43,False,True
+76201,Lenox Springs I,"Austin-Round Rock, TX",12.0,1232.0,1221.0,-0.89,True,True
+53642,Lone Oak,"Austin-Round Rock, TX",12.0,1092.0,1236.0,13.19,False,True
+36477,Lotus Village,"Austin-Round Rock, TX",10.0,986.0,998.0,1.22,False,True
+51760,Marq on Burnet,"Austin-Round Rock, TX",16.0,1522.0,1516.0,-0.39,True,True
+58357,Marq Uptown,"Austin-Round Rock, TX",11.0,1825.0,1742.0,-4.55,True,True
+19960,Marquis at Canyon Ridge,"Austin-Round Rock, TX",13.0,864.0,827.0,-4.28,True,True
+58950,Marquis at Star Ranch,"Austin-Round Rock, TX",8.0,973.0,1158.0,19.01,False,True
+19622,Marquis Lakeline Station,"Austin-Round Rock, TX",11.0,981.0,770.0,-21.51,True,True
+34862,Marquis on Lakeline,"Austin-Round Rock, TX",11.0,922.0,1060.0,14.97,False,True
+53648,Marquis Soco,"Austin-Round Rock, TX",7.0,1256.0,1303.0,3.74,False,True
+10252087,McCarty Commons,"Austin-Round Rock, TX",10.0,1428.0,1388.0,-2.8,True,True
+26327,Midtown Commons at Crestview Station I,"Austin-Round Rock, TX",15.0,1243.0,1125.0,-9.49,True,True
+35678,Midtown Commons at Crestview Station II,"Austin-Round Rock, TX",16.0,1310.0,1360.0,3.82,False,True
+19199,Mosaic at Mueller,"Austin-Round Rock, TX",16.0,1292.0,1466.0,13.47,False,True
+42660,Muir Lake,"Austin-Round Rock, TX",10.0,1309.0,1311.0,0.15,False,True
+42276,Northshore Austin I,"Austin-Round Rock, TX",16.0,3388.0,3724.0,9.92,False,True
+37339,Oaks at Tech Ridge,"Austin-Round Rock, TX",6.0,823.0,903.0,9.72,False,True
+71761,Oaks of Kyle,"Austin-Round Rock, TX",9.0,1113.0,1159.0,4.13,False,True
+86203,Oaks on Marketplace,"Austin-Round Rock, TX",18.0,1222.0,1194.0,-2.29,True,True
+55187,Ocotillo,"Austin-Round Rock, TX",15.0,1266.0,1313.0,3.71,False,True
+10253991,Oxford at Santa Clara,"Austin-Round Rock, TX",3.0,1248.0,1255.0,0.56,False,True
+33780,Oxford at Tech Ridge,"Austin-Round Rock, TX",5.0,787.0,870.0,10.55,False,True
+19831,Palm Valley Apartments,"Austin-Round Rock, TX",7.0,829.0,755.0,-8.93,True,True
+91026,Palo Verde,"Austin-Round Rock, TX",13.0,1221.0,1519.0,24.41,False,True
+53304,Parallax @ Georgetown,"Austin-Round Rock, TX",12.0,991.0,1112.0,12.21,False,True
+42348,Park at Crystal Falls I,"Austin-Round Rock, TX",19.0,1344.0,1079.0,-19.72,True,True
+71883,Park at Crystal Falls II,"Austin-Round Rock, TX",14.0,1199.0,1267.0,5.67,False,True
+87856,Park Place at Loyola,"Austin-Round Rock, TX",17.0,793.0,717.0,-9.58,True,True
+66015,Parkway Grande,"Austin-Round Rock, TX",4.0,839.0,1033.0,23.12,False,False
+19952,Parmer Place,"Austin-Round Rock, TX",12.0,1075.0,1000.0,-6.98,True,True
+59700,Pearl Lantana,"Austin-Round Rock, TX",17.0,1420.0,1305.0,-8.1,True,True
+71006,Platform,"Austin-Round Rock, TX",14.0,1533.0,1630.0,6.33,False,True
+90351,Plum Creek Vue,"Austin-Round Rock, TX",9.0,1181.0,1241.0,5.08,False,True
+34865,Post South Lamar I,"Austin-Round Rock, TX",10.0,1638.0,1791.0,9.34,False,True
+48351,Post South Lamar II,"Austin-Round Rock, TX",14.0,1766.0,1746.0,-1.13,True,True
+26425,Post West Austin,"Austin-Round Rock, TX",7.0,1191.0,1138.0,-4.45,True,True
+19639,Pressler,"Austin-Round Rock, TX",3.0,1720.0,1565.0,-9.01,True,True
+42127,Promesa,"Austin-Round Rock, TX",13.0,1236.0,1237.0,0.08,False,True
+71727,Provenza At Plum Creek,"Austin-Round Rock, TX",1.0,1048.0,1048.0,0.0,False,False
+64183,Radius on Grove,"Austin-Round Rock, TX",15.0,1316.0,1672.0,27.05,False,True
+52349,Regal Parc II,"Austin-Round Rock, TX",13.0,1267.0,1252.0,-1.18,True,True
+57043,Retreat at Wolf Ranch,"Austin-Round Rock, TX",21.0,1341.0,1233.0,-8.05,True,True
+37912,RiverView,"Austin-Round Rock, TX",16.0,2448.0,1978.0,-19.2,True,True
+43630,Sabina Apartments,"Austin-Round Rock, TX",19.0,1717.0,1648.0,-4.02,True,True
+76210,Sadler House,"Austin-Round Rock, TX",20.0,1201.0,1140.0,-5.08,True,True
+36130,Seven,"Austin-Round Rock, TX",7.0,2682.0,2343.0,-12.64,True,True
+38748,Silverado Crossing,"Austin-Round Rock, TX",10.0,954.0,982.0,2.94,False,True
+41329,Skyhouse Austin,"Austin-Round Rock, TX",17.0,1988.0,2104.0,5.84,False,True
+35835,South Shore District I,"Austin-Round Rock, TX",24.0,1658.0,1714.0,3.38,False,True
+42066,South Shore District II,"Austin-Round Rock, TX",16.0,1864.0,2060.0,10.52,False,True
+50271,South Shore District III,"Austin-Round Rock, TX",12.0,1648.0,1635.0,-0.79,True,True
+71766,Southpark Crossing,"Austin-Round Rock, TX",11.0,1149.0,1102.0,-4.09,True,True
+76064,Springs at Lakeline,"Austin-Round Rock, TX",19.0,1352.0,1093.0,-19.16,True,True
+76059,Springs at Round Rock,"Austin-Round Rock, TX",15.0,1208.0,1101.0,-8.86,True,True
+10251497,Springs at Sunfield,"Austin-Round Rock, TX",15.0,1235.0,1223.0,-0.97,True,True
+71887,Still Waters,"Austin-Round Rock, TX",8.0,1108.0,1099.0,-0.81,True,True
+10255590,Stone Hill,"Austin-Round Rock, TX",10.0,1255.0,1305.0,3.98,False,True
+44692,Sur512,"Austin-Round Rock, TX",18.0,1479.0,1576.0,6.56,False,True
+34863,Sync at Mueller,"Austin-Round Rock, TX",17.0,1752.0,1798.0,2.63,False,True
+45203,Sync at Purgatory Creek,"Austin-Round Rock, TX",9.0,1144.0,1242.0,8.57,False,False
+65660,Tacara at Steiner Ranch,"Austin-Round Rock, TX",13.0,1481.0,1449.0,-2.16,True,True
+37334,Ten Oaks,"Austin-Round Rock, TX",6.0,1038.0,1110.0,6.94,False,True
+90985,Terra,"Austin-Round Rock, TX",17.0,1332.0,1409.0,5.78,False,True
+42567,The 704,"Austin-Round Rock, TX",19.0,1612.0,1461.0,-9.37,True,True
+38382,The Addison at Kramer Station,"Austin-Round Rock, TX",22.0,1404.0,1655.0,17.88,False,True
+44404,The Allure,"Austin-Round Rock, TX",13.0,1329.0,1268.0,-4.59,True,True
+56174,The Arnold,"Austin-Round Rock, TX",24.0,2058.0,1690.0,-17.88,True,True
+34006,The Asten at Ribelin Ranch,"Austin-Round Rock, TX",9.0,954.0,934.0,-2.1,True,True
+19869,The Beverly,"Austin-Round Rock, TX",10.0,1989.0,1977.0,-0.6,True,True
+37790,The Bowie,"Austin-Round Rock, TX",24.0,3204.0,3062.0,-4.43,True,True
+19839,The Bridge at Centeridge,"Austin-Round Rock, TX",11.0,865.0,708.0,-18.15,True,True
+42336,The Catherine,"Austin-Round Rock, TX",16.0,2399.0,2805.0,16.92,False,True
+65886,The Corner,"Austin-Round Rock, TX",5.0,3158.0,3046.0,-3.55,True,True
+20697,The Cove at Saddle Creek,"Austin-Round Rock, TX",18.0,873.0,748.0,-14.32,True,True
+35750,The Davis SoCo,"Austin-Round Rock, TX",14.0,1425.0,1259.0,-11.65,True,True
+52348,The Emerson,"Austin-Round Rock, TX",17.0,1222.0,1254.0,2.62,False,True
+65404,The Fairways at Star Ranch,"Austin-Round Rock, TX",12.0,877.0,980.0,11.74,False,True
+10252089,The Fitzroy San Marcos,"Austin-Round Rock, TX",14.0,1273.0,1311.0,2.99,False,True
+69751,The Green at Plum Creek,"Austin-Round Rock, TX",5.0,1235.0,1209.0,-2.11,True,True
+88636,The Guthrie,"Austin-Round Rock, TX",8.0,1553.0,1593.0,2.58,False,True
+88543,The Heights on Parmer,"Austin-Round Rock, TX",5.0,888.0,931.0,4.84,False,False
+77756,The Highlands,"Austin-Round Rock, TX",11.0,1168.0,1088.0,-6.85,True,True
+42323,The Landing Double Creek,"Austin-Round Rock, TX",10.0,1030.0,1078.0,4.66,False,True
+42292,The M at Lakeline,"Austin-Round Rock, TX",7.0,1526.0,1768.0,15.86,False,False
+19963,The Marquis at Brushy Creek,"Austin-Round Rock, TX",31.0,898.0,870.0,-3.12,True,True
+66282,The Michael at Presidio,"Austin-Round Rock, TX",21.0,1326.0,1405.0,5.96,False,True
+19152,The Monarch by Windsor,"Austin-Round Rock, TX",14.0,2870.0,2364.0,-17.63,True,True
+42760,The Monterra Apartments,"Austin-Round Rock, TX",9.0,1082.0,1158.0,7.02,False,True
+10253992,The Park at Estancia,"Austin-Round Rock, TX",11.0,1276.0,1295.0,1.49,False,True
+10253290,The Ridge at Headwaters,"Austin-Round Rock, TX",11.0,1452.0,1356.0,-6.61,True,True
+56838,The Santal I,"Austin-Round Rock, TX",7.0,1684.0,1704.0,1.19,False,True
+82277,The Santal II,"Austin-Round Rock, TX",8.0,1594.0,1500.0,-5.9,True,True
+10251501,The Sarah,"Austin-Round Rock, TX",9.0,1095.0,1298.0,18.54,False,True
+34301,The Settlement,"Austin-Round Rock, TX",10.0,794.0,833.0,4.91,False,True
+71772,The Standard at Domain North Side,"Austin-Round Rock, TX",5.0,1405.0,1561.0,11.1,False,False
+66304,The Standard at Leander Station,"Austin-Round Rock, TX",11.0,1086.0,1077.0,-0.83,True,True
+55211,The Summit at Rivery Park I,"Austin-Round Rock, TX",14.0,1113.0,1146.0,2.96,False,True
+71824,The View at Cedar Park,"Austin-Round Rock, TX",23.0,1205.0,1277.0,5.98,False,True
+13268,The Villas of Cordoba,"Austin-Round Rock, TX",19.0,670.0,700.0,4.48,False,True
+54780,Thornton Flats,"Austin-Round Rock, TX",17.0,1442.0,1494.0,3.61,False,True
+91020,Travis at The Lake,"Austin-Round Rock, TX",7.0,1471.0,1638.0,11.35,False,True
+35623,Tree Apartments,"Austin-Round Rock, TX",15.0,1443.0,1525.0,5.68,False,True
+71817,Trillium Terrace,"Austin-Round Rock, TX",7.0,1200.0,1327.0,10.58,False,True
+35681,Two Rivers,"Austin-Round Rock, TX",7.0,1290.0,1298.0,0.62,False,False
+71821,Urban North,"Austin-Round Rock, TX",15.0,1311.0,1252.0,-4.5,True,True
+23047,Villages At The Domain,"Austin-Round Rock, TX",6.0,1183.0,1120.0,-5.33,True,True
+26336,Villages at Turtle Rock,"Austin-Round Rock, TX",8.0,862.0,802.0,-6.96,True,True
+91636,Villages of Georgetown,"Austin-Round Rock, TX",18.0,1511.0,1578.0,4.43,False,True
+52347,Villas at Spring Trails I,"Austin-Round Rock, TX",12.0,1103.0,1176.0,6.62,False,True
+30455,Villas at Tech Ridge,"Austin-Round Rock, TX",15.0,1141.0,841.0,-26.29,True,True
+34304,Vista at Plum Creek,"Austin-Round Rock, TX",4.0,789.0,816.0,3.42,False,True
+53652,Waller Creekside on 51st,"Austin-Round Rock, TX",8.0,1375.0,1248.0,-9.24,True,True
+82292,Walnut Park,"Austin-Round Rock, TX",14.0,1466.0,1457.0,-0.61,True,True
+62303,Walnut Ridge Phase I & II,"Austin-Round Rock, TX",14.0,792.0,760.0,-4.04,True,True
+51952,Water Marq,"Austin-Round Rock, TX",11.0,2788.0,2699.0,-3.19,True,True
+82396,Wells Junction,"Austin-Round Rock, TX",5.0,1255.0,1292.0,2.95,False,True
+65698,West Koenig Flats,"Austin-Round Rock, TX",10.0,1610.0,1775.0,10.25,False,True
+20173,West Lake Vistas,"Austin-Round Rock, TX",17.0,1345.0,1303.0,-3.12,True,True
+36486,Westerly 360,"Austin-Round Rock, TX",22.0,2000.0,2014.0,0.7,False,True
+37782,Whitley Apartments,"Austin-Round Rock, TX",10.0,2560.0,2618.0,2.27,False,True
+82341,Windsor Burnet,"Austin-Round Rock, TX",10.0,1565.0,1752.0,11.95,False,True
+82555,Windsor Lantana Hills,"Austin-Round Rock, TX",13.0,1254.0,1534.0,22.33,False,True
+90988,Windsor Oak Hill,"Austin-Round Rock, TX",11.0,1539.0,1541.0,0.13,False,True
+19876,Windsor On The Lake,"Austin-Round Rock, TX",8.0,1932.0,1963.0,1.6,False,True
+71889,Windsor Republic Place,"Austin-Round Rock, TX",16.0,1354.0,1385.0,2.29,False,True
+41311,Windsor South Lamar,"Austin-Round Rock, TX",18.0,2087.0,1933.0,-7.38,True,True
+79577,Woodcreek Apartments,"Austin-Round Rock, TX",8.0,1177.0,1207.0,2.55,False,True
+47913,Colony Hills,"Akron, OH",12.0,1125.0,1125.0,0.0,False,True
+51333,East End Residences,"Akron, OH",4.0,1219.0,1219.0,0.0,False,False
