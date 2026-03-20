@@ -114,7 +114,7 @@ with st.sidebar:
     st.image("https://img.icons8.com/fluency/96/building.png", width=60)
     st.markdown("## Affinius Capital\n### Lease-Up Dashboard")
     st.markdown("---")
-    st.markdown("**Data:** IRS SOI + CoStar-style multifamily  \n**Period:** Apr 2008 – Sep 2020  \n**Markets:** Austin TX · Akron OH")
+    st.markdown("**Period:** Apr 2008 – Sep 2020  \n**Markets:** Austin TX · Akron OH")
     st.markdown("---")
 
     # Global market filter
@@ -772,6 +772,6 @@ Answer:"""
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.caption(
-    "Affinius Capital Research Intern Assessment- Ritik Manghani | "
+    "Affinius Capital Research Intern Assessment- Ritik Manghani | Texas A&M University "
     
 )
