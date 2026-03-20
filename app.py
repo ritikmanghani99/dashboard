@@ -315,7 +315,7 @@ with tab2:
         color_discrete_map=ERA_COLORS if color_by == "delivery_era" else None,
         size=size_col,
         hover_data=["Name", "Submarket", "market", "leaseup_months", x_feature],
-        trendline="ols",
+        # trendline="ols",
         labels={
             x_feature: {
                 "AreaPerUnit":           "Avg Unit Size (sq ft)",
