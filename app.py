@@ -5,7 +5,9 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-import google.generativeai as genai
+from google import genai
+from google.genai import types
+# import google.generativeai as genai
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
