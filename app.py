@@ -74,9 +74,10 @@ GEMINI_MODEL   = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash-lite")
 if not GEMINI_API_KEY:
     st.error("No Gemini API key found. Add GEMINI_API_KEY to your .env file.")
     st.stop()
-
-genai.configure(api_key=GEMINI_API_KEY)
-gemini = genai.GenerativeModel(GEMINI_MODEL)
+    
+gemini = genai.Client(api_key=GEMINI_API_KEY)
+# genai.configure(api_key=GEMINI_API_KEY)
+# gemini = genai.GenerativeModel(GEMINI_MODEL)
 
 # ── Data loading ──────────────────────────────────────────────────────────────
 @st.cache_data
@@ -583,7 +584,11 @@ predictor of final stabilization speed (r = -0.29).
 Write 3 sentences. No headers, no bullet points."""
 
             try:
-                response = gemini.generate_content(prompt)
+                response = gemini.models.generate_content(
+    model=GEMINI_MODEL,
+    contents=prompt
+)
+                # response = gemini.generate_content(prompt)
                 insight  = response.text.strip()
                 st.markdown(
                     f'<div class="insight-box">🏢 <b>Gemini Analysis:</b><br><br>{insight}</div>',
@@ -697,7 +702,11 @@ Question: {nl_query}
 Answer:"""
 
             try:
-                response   = gemini.generate_content(prompt)
+                # response   = gemini.generate_content(prompt)
+                response = gemini.models.generate_content(
+                            model=GEMINI_MODEL,
+                            contents=prompt
+                            )
                 raw_code   = response.text.strip()
 
                 # Clean up any accidental markdown fences
