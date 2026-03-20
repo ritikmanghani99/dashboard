@@ -468,7 +468,7 @@ with tab4:
     st.markdown("## Property Lookup & AI Insight")
     st.markdown(
         '<div class="warning-box">🤖 <b>GenAI Feature 1:</b> Select any delivered property '
-        'and Gemini 1.5 Flash generates a 3-sentence analyst narrative explaining its '
+        'and Gemini 2.5 Flash Lite generates a 3-sentence analyst narrative explaining its '
         'lease-up performance based on its feature profile.</div>',
         unsafe_allow_html=True,
     )
