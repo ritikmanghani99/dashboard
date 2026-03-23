@@ -128,8 +128,8 @@ with st.sidebar:
         options=["Pre-GFC", "Recovery", "Expansion", "COVID"],
         default=["Pre-GFC", "Recovery", "Expansion", "COVID"],
     )
-    st.markdown("---")
-    st.caption("Powered by Google Gemini 2.0 Flash")
+    # st.markdown("---")
+    # st.caption("Powered by Google Gemini 2.0 Flash")
 
 # Apply global filters
 af_f = all_features[
