@@ -468,7 +468,7 @@ with tab4:
     st.markdown("## Property Lookup & AI Insight")
     st.markdown(
         '<div class="warning-box">🤖 <b>GenAI Feature 1:</b> Select any delivered property '
-        'and Gemini 2.5 Flash Lite generates a 3-sentence analyst narrative explaining its '
+        'and Gemini-2.0-flash-lite generates a 3-sentence analyst narrative explaining its '
         'lease-up performance based on its feature profile.</div>',
         unsafe_allow_html=True,
     )
@@ -600,7 +600,7 @@ Write 3 sentences. No headers, no bullet points."""
     # Prompt engineering documentation (collapsible)
     with st.expander("Prompt Engineering Documentation"):
         st.markdown("""
-**Model:** `gemini-2.5-flash-lite`
+**Model:** `gemini-2.0-flash-lite`
 
 **Prompt design decisions:**
 1. **Role priming** ("senior real estate analyst") — constrains the tone and prevents generic chatbot hedging
