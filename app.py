@@ -600,7 +600,7 @@ Write 3 sentences. No headers, no bullet points."""
     # Prompt engineering documentation (collapsible)
     with st.expander("Prompt Engineering Documentation"):
         st.markdown("""
-**Model:** `gemini-2.0-flash`
+**Model:** `gemini-2.5-flash`
 
 **Prompt design decisions:**
 1. **Role priming** ("senior real estate analyst") — constrains the tone and prevents generic chatbot hedging
