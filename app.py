@@ -69,7 +69,7 @@ from dotenv import load_dotenv
 load_dotenv()  # loads .env file automatically
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL   = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash-lite")
+GEMINI_MODEL   = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 if not GEMINI_API_KEY:
     st.error("No Gemini API key found. Add GEMINI_API_KEY to your .env file.")
@@ -129,7 +129,7 @@ with st.sidebar:
         default=["Pre-GFC", "Recovery", "Expansion", "COVID"],
     )
     # st.markdown("---")
-    # st.caption("Powered by Google Gemini 2.0 Flash")
+    # st.caption("Powered by Google Gemini 2.5 Flash")
 
 # Apply global filters
 af_f = all_features[
@@ -468,7 +468,7 @@ with tab4:
     st.markdown("## Property Lookup & AI Insight")
     st.markdown(
         '<div class="warning-box">🤖 <b>GenAI Feature 1:</b> Select any delivered property '
-        'and Gemini-2.0-flash-lite generates a 3-sentence analyst narrative explaining its '
+        'and Gemini-2.5-flash-lite generates a 3-sentence analyst narrative explaining its '
         'lease-up performance based on its feature profile.</div>',
         unsafe_allow_html=True,
     )
@@ -600,7 +600,7 @@ Write 3 sentences. No headers, no bullet points."""
     # Prompt engineering documentation (collapsible)
     with st.expander("Prompt Engineering Documentation"):
         st.markdown("""
-**Model:** `gemini-2.0-flash-lite`
+**Model:** `gemini-2.5-flash-lite`
 
 **Prompt design decisions:**
 1. **Role priming** ("senior real estate analyst") — constrains the tone and prevents generic chatbot hedging
